@@ -1,0 +1,8 @@
+You are provided with a 1 week sample of website traffic.						This data is available from			https://drive.google.com/file/d/13sVl1ioWmAsGRjO79tk5q1ARzHKvC1Q5
+You are requested to create a model to predict how likely a given user is going to submit a lead in the next day.									
+Please provide scripts/notebooks detailing how you would approach this problem, how you create your model(s), and how you would evaluate your model(s). Please provide at least one working model.									
+You may use any programming languages or modeling tools you are familiar with, but Python or R scripts will be preferable.									
+Additional Question:									
+Should you have the opportunity to go back to the stakeholder PRIOR to commencing the modeling task, what are the discussion points do you have in mind?									
+									
+ I would ask for more information before commencing the modelling. Demographic information such as (dealer vs private) and state, and historical data about each member would help to predict whether the given user would submit a lead or not.									
